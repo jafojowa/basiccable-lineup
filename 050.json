@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "catalogNumber": 50,
-  "version": "2026-09-05",
+  "version": "2026-09-07",
   "source": "tmdb-keywords:coming of age",
   "providerKeys": [
     "tmdb:movie:14",
@@ -104,7 +104,6 @@
     "tmdb:movie:12919",
     "tmdb:movie:13193",
     "tmdb:movie:13342",
-    "tmdb:movie:13346",
     "tmdb:movie:13384",
     "tmdb:movie:13539",
     "tmdb:movie:13597",
@@ -577,7 +576,6 @@
     "tmdb:movie:209266",
     "tmdb:movie:209440",
     "tmdb:movie:209454",
-    "tmdb:movie:209524",
     "tmdb:movie:210203",
     "tmdb:movie:210364",
     "tmdb:movie:210603",
@@ -2051,7 +2049,6 @@
     "tmdb:movie:1019206",
     "tmdb:movie:1019871",
     "tmdb:movie:1020006",
-    "tmdb:movie:1020124",
     "tmdb:movie:1020486",
     "tmdb:movie:1020996",
     "tmdb:movie:1021968",
@@ -3416,7 +3413,6 @@
     "tmdb:movie:1571248",
     "tmdb:movie:1571535",
     "tmdb:movie:1571654",
-    "tmdb:movie:1571891",
     "tmdb:movie:1572346",
     "tmdb:movie:1573703",
     "tmdb:movie:1573849",
@@ -4008,6 +4004,7 @@
     "tmdb:movie:1763284",
     "tmdb:movie:1763453",
     "tmdb:movie:1763548",
-    "tmdb:movie:1764339"
+    "tmdb:movie:1764339",
+    "tmdb:movie:1764984"
   ]
 }

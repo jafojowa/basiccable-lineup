@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "catalogNumber": 15,
-  "version": "2026-09-05",
+  "version": "2026-09-07",
   "source": "tmdb-keywords:serial killer",
   "providerKeys": [
     "tmdb:movie:212",
@@ -1383,6 +1383,7 @@
     "tmdb:movie:890526",
     "tmdb:movie:892075",
     "tmdb:movie:892302",
+    "tmdb:movie:895823",
     "tmdb:movie:902533",
     "tmdb:movie:906463",
     "tmdb:movie:912480",
@@ -1804,6 +1805,7 @@
     "tmdb:movie:1754114",
     "tmdb:movie:1756181",
     "tmdb:movie:1760485",
-    "tmdb:movie:1764205"
+    "tmdb:movie:1764205",
+    "tmdb:movie:1765391"
   ]
 }

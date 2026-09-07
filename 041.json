@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "catalogNumber": 41,
-  "version": "2026-09-05",
+  "version": "2026-09-07",
   "source": "tmdb-keywords:boxing,mixed martial arts",
   "providerKeys": [
     "tmdb:movie:6",
@@ -648,7 +648,6 @@
     "tmdb:movie:1700622",
     "tmdb:movie:1702438",
     "tmdb:movie:1717944",
-    "tmdb:movie:1732025",
     "tmdb:movie:1743196",
     "tmdb:movie:1759826",
     "tmdb:movie:1760160",

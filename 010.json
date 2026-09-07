@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "catalogNumber": 10,
-  "version": "2026-09-05",
+  "version": "2026-09-07",
   "source": "tmdb-keywords:conspiracy,paranoia,cover-up",
   "providerKeys": [
     "tmdb:movie:63",
@@ -1019,6 +1019,7 @@
     "tmdb:movie:1757015",
     "tmdb:movie:1759533",
     "tmdb:movie:1760411",
-    "tmdb:movie:1763709"
+    "tmdb:movie:1763709",
+    "tmdb:movie:1765056"
   ]
 }

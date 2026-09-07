@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "catalogNumber": 53,
-  "version": "2026-09-05",
+  "version": "2026-09-07",
   "source": "tmdb-keywords:dance,dancing,ballet",
   "providerKeys": [
     "tmdb:movie:16",
@@ -113,6 +113,7 @@
     "tmdb:movie:25832",
     "tmdb:movie:26824",
     "tmdb:movie:26837",
+    "tmdb:movie:27074",
     "tmdb:movie:27357",
     "tmdb:movie:27723",
     "tmdb:movie:27943",
@@ -2132,6 +2133,7 @@
     "tmdb:movie:1730489",
     "tmdb:movie:1734120",
     "tmdb:movie:1734280",
+    "tmdb:movie:1735459",
     "tmdb:movie:1735658",
     "tmdb:movie:1735718",
     "tmdb:movie:1736405",
@@ -2163,6 +2165,8 @@
     "tmdb:movie:1759702",
     "tmdb:movie:1760277",
     "tmdb:movie:1764183",
-    "tmdb:movie:1764488"
+    "tmdb:movie:1764488",
+    "tmdb:movie:1764609",
+    "tmdb:movie:1765172"
   ]
 }

@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "catalogNumber": 195,
-  "version": "2026-09-05",
+  "version": "2026-09-07",
   "source": "tmdb-keywords:christmas,santa claus,holiday",
   "providerKeys": [
     "tmdb:movie:68",
@@ -3863,6 +3863,7 @@
     "tmdb:movie:1757174",
     "tmdb:movie:1757784",
     "tmdb:movie:1759899",
-    "tmdb:movie:1761233"
+    "tmdb:movie:1761233",
+    "tmdb:movie:1765170"
   ]
 }

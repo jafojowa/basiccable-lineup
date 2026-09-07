@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "catalogNumber": 71,
-  "version": "2026-09-05",
+  "version": "2026-09-07",
   "source": "tmdb-keywords:based on novel or book",
   "providerKeys": [
     "tmdb:movie:13",
@@ -3811,6 +3811,7 @@
     "tmdb:movie:287966",
     "tmdb:movie:288051",
     "tmdb:movie:288158",
+    "tmdb:movie:288281",
     "tmdb:movie:288509",
     "tmdb:movie:288551",
     "tmdb:movie:288664",
