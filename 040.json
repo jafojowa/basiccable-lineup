@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "catalogNumber": 40,
-  "version": "2026-09-07",
+  "version": "2026-09-09T13:43:30Z",
   "source": "tmdb-keywords:car race,race car,motorsport",
   "providerKeys": [
     "tmdb:movie:105",
@@ -272,6 +272,8 @@
     "tmdb:movie:1657328",
     "tmdb:movie:1666979",
     "tmdb:movie:1692178",
-    "tmdb:movie:1745923"
+    "tmdb:movie:1745923",
+    "tmdb:movie:1766276",
+    "tmdb:movie:1766334"
   ]
 }

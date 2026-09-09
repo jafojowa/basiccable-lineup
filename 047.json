@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "catalogNumber": 47,
-  "version": "2026-09-07",
+  "version": "2026-09-09T13:43:30Z",
   "source": "tmdb-keywords:parody,spoof,satire",
   "providerKeys": [
     "tmdb:movie:14",
@@ -2337,6 +2337,8 @@
     "tmdb:movie:1761119",
     "tmdb:movie:1764282",
     "tmdb:movie:1764287",
-    "tmdb:movie:1764514"
+    "tmdb:movie:1764514",
+    "tmdb:movie:1765965",
+    "tmdb:movie:1766664"
   ]
 }

@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "catalogNumber": 28,
-  "version": "2026-09-05",
+  "version": "2026-09-09T13:43:30Z",
   "source": "tmdb-keywords:space travel,spacecraft,space station,outer space",
   "providerKeys": [
     "tmdb:movie:18",
@@ -498,7 +498,6 @@
     "tmdb:movie:1523663",
     "tmdb:movie:1557076",
     "tmdb:movie:1564838",
-    "tmdb:movie:1575490",
     "tmdb:movie:1576663",
     "tmdb:movie:1580320",
     "tmdb:movie:1582540",

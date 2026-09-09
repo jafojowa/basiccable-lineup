@@ -1,6 +1,6 @@
 {
   "formatVersion": 1,
-  "version": "2026-09-07",
+  "version": "2026-09-09T13:43:30Z",
   "lists": [
     {
       "catalogNumber": 5,
@@ -20,12 +20,12 @@
     {
       "catalogNumber": 9,
       "file": "009.json",
-      "version": "2026-09-05"
+      "version": "2026-09-09T13:43:30Z"
     },
     {
       "catalogNumber": 10,
       "file": "010.json",
-      "version": "2026-09-07"
+      "version": "2026-09-09T13:43:30Z"
     },
     {
       "catalogNumber": 11,
@@ -45,12 +45,12 @@
     {
       "catalogNumber": 15,
       "file": "015.json",
-      "version": "2026-09-07"
+      "version": "2026-09-09T13:43:30Z"
     },
     {
       "catalogNumber": 16,
       "file": "016.json",
-      "version": "2026-09-07"
+      "version": "2026-09-09T13:43:30Z"
     },
     {
       "catalogNumber": 18,
@@ -70,17 +70,17 @@
     {
       "catalogNumber": 22,
       "file": "022.json",
-      "version": "2026-09-05"
+      "version": "2026-09-09T13:43:30Z"
     },
     {
       "catalogNumber": 23,
       "file": "023.json",
-      "version": "2026-09-05"
+      "version": "2026-09-09T13:43:30Z"
     },
     {
       "catalogNumber": 24,
       "file": "024.json",
-      "version": "2026-09-05"
+      "version": "2026-09-09T13:43:30Z"
     },
     {
       "catalogNumber": 25,
@@ -90,7 +90,7 @@
     {
       "catalogNumber": 28,
       "file": "028.json",
-      "version": "2026-09-05"
+      "version": "2026-09-09T13:43:30Z"
     },
     {
       "catalogNumber": 29,
@@ -100,7 +100,7 @@
     {
       "catalogNumber": 30,
       "file": "030.json",
-      "version": "2026-09-05"
+      "version": "2026-09-09T13:43:30Z"
     },
     {
       "catalogNumber": 31,
@@ -110,7 +110,7 @@
     {
       "catalogNumber": 32,
       "file": "032.json",
-      "version": "2026-09-05"
+      "version": "2026-09-09T13:43:30Z"
     },
     {
       "catalogNumber": 33,
@@ -120,7 +120,7 @@
     {
       "catalogNumber": 34,
       "file": "034.json",
-      "version": "2026-09-07"
+      "version": "2026-09-09T13:43:30Z"
     },
     {
       "catalogNumber": 37,
@@ -140,7 +140,7 @@
     {
       "catalogNumber": 40,
       "file": "040.json",
-      "version": "2026-09-07"
+      "version": "2026-09-09T13:43:30Z"
     },
     {
       "catalogNumber": 41,
@@ -150,17 +150,17 @@
     {
       "catalogNumber": 43,
       "file": "043.json",
-      "version": "2026-09-05"
+      "version": "2026-09-09T13:43:30Z"
     },
     {
       "catalogNumber": 44,
       "file": "044.json",
-      "version": "2026-09-05"
+      "version": "2026-09-09T13:43:30Z"
     },
     {
       "catalogNumber": 47,
       "file": "047.json",
-      "version": "2026-09-07"
+      "version": "2026-09-09T13:43:30Z"
     },
     {
       "catalogNumber": 48,
@@ -170,7 +170,7 @@
     {
       "catalogNumber": 50,
       "file": "050.json",
-      "version": "2026-09-07"
+      "version": "2026-09-09T13:43:30Z"
     },
     {
       "catalogNumber": 53,
@@ -180,7 +180,7 @@
     {
       "catalogNumber": 57,
       "file": "057.json",
-      "version": "2026-09-05"
+      "version": "2026-09-09T13:43:30Z"
     },
     {
       "catalogNumber": 60,
@@ -195,7 +195,7 @@
     {
       "catalogNumber": 71,
       "file": "071.json",
-      "version": "2026-09-07"
+      "version": "2026-09-09T13:43:30Z"
     },
     {
       "catalogNumber": 74,
@@ -250,7 +250,7 @@
     {
       "catalogNumber": 116,
       "file": "116.json",
-      "version": "2026-09-07"
+      "version": "2026-09-09T13:43:30Z"
     },
     {
       "catalogNumber": 141,
@@ -270,7 +270,7 @@
     {
       "catalogNumber": 195,
       "file": "195.json",
-      "version": "2026-09-07"
+      "version": "2026-09-09T13:43:30Z"
     },
     {
       "catalogNumber": 200,
