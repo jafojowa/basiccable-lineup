@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "catalogNumber": 11,
-  "version": "2026-09-07",
+  "version": "2026-09-14T09:52:34Z",
   "source": "tmdb-keywords:revenge,vengeance",
   "providerKeys": [
     "tmdb:movie:24",
@@ -1366,6 +1366,7 @@
     "tmdb:movie:232866",
     "tmdb:movie:232995",
     "tmdb:movie:233246",
+    "tmdb:movie:233355",
     "tmdb:movie:233386",
     "tmdb:movie:233844",
     "tmdb:movie:233956",
@@ -2902,7 +2903,6 @@
     "tmdb:movie:1647350",
     "tmdb:movie:1648742",
     "tmdb:movie:1650162",
-    "tmdb:movie:1655805",
     "tmdb:movie:1657907",
     "tmdb:movie:1659087",
     "tmdb:movie:1659427",
@@ -2938,6 +2938,7 @@
     "tmdb:movie:1714260",
     "tmdb:movie:1714470",
     "tmdb:movie:1714584",
+    "tmdb:movie:1716622",
     "tmdb:movie:1718035",
     "tmdb:movie:1718560",
     "tmdb:movie:1719844",
@@ -2972,13 +2973,16 @@
     "tmdb:movie:1754109",
     "tmdb:movie:1754797",
     "tmdb:movie:1755425",
-    "tmdb:movie:1755670",
     "tmdb:movie:1756306",
     "tmdb:movie:1756475",
     "tmdb:movie:1756902",
     "tmdb:movie:1759620",
     "tmdb:movie:1760411",
     "tmdb:movie:1762638",
-    "tmdb:movie:1763550"
+    "tmdb:movie:1763550",
+    "tmdb:movie:1767096",
+    "tmdb:movie:1767326",
+    "tmdb:movie:1769002",
+    "tmdb:movie:1770153"
   ]
 }

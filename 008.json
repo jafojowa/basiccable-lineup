@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "catalogNumber": 8,
-  "version": "2026-09-05",
+  "version": "2026-09-14T09:52:34Z",
   "source": "tmdb-keywords:courtroom,trial",
   "providerKeys": [
     "tmdb:movie:93",
@@ -75,6 +75,7 @@
     "tmdb:movie:26301",
     "tmdb:movie:26323",
     "tmdb:movie:26589",
+    "tmdb:movie:26685",
     "tmdb:movie:27094",
     "tmdb:movie:27221",
     "tmdb:movie:27986",

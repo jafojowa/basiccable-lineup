@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "catalogNumber": 24,
-  "version": "2026-09-09T13:43:30Z",
+  "version": "2026-09-14T09:52:34Z",
   "source": "tmdb-keywords:found footage",
   "providerKeys": [
     "tmdb:movie:452",
@@ -3144,7 +3144,6 @@
     "tmdb:movie:1211342",
     "tmdb:movie:1211825",
     "tmdb:movie:1212366",
-    "tmdb:movie:1213199",
     "tmdb:movie:1213419",
     "tmdb:movie:1213423",
     "tmdb:movie:1213426",
@@ -3898,6 +3897,7 @@
     "tmdb:movie:1654479",
     "tmdb:movie:1654725",
     "tmdb:movie:1655943",
+    "tmdb:movie:1656442",
     "tmdb:movie:1656593",
     "tmdb:movie:1656888",
     "tmdb:movie:1656958",
@@ -3979,6 +3979,7 @@
     "tmdb:movie:1689381",
     "tmdb:movie:1690120",
     "tmdb:movie:1690185",
+    "tmdb:movie:1691067",
     "tmdb:movie:1691654",
     "tmdb:movie:1691688",
     "tmdb:movie:1691755",
@@ -4021,6 +4022,7 @@
     "tmdb:movie:1703425",
     "tmdb:movie:1703467",
     "tmdb:movie:1703625",
+    "tmdb:movie:1703664",
     "tmdb:movie:1703719",
     "tmdb:movie:1703731",
     "tmdb:movie:1703740",
@@ -4042,6 +4044,7 @@
     "tmdb:movie:1711759",
     "tmdb:movie:1711792",
     "tmdb:movie:1712936",
+    "tmdb:movie:1713497",
     "tmdb:movie:1713501",
     "tmdb:movie:1714508",
     "tmdb:movie:1715641",
@@ -4127,6 +4130,7 @@
     "tmdb:movie:1747619",
     "tmdb:movie:1747705",
     "tmdb:movie:1748051",
+    "tmdb:movie:1748819",
     "tmdb:movie:1749243",
     "tmdb:movie:1751889",
     "tmdb:movie:1751955",
@@ -4160,6 +4164,11 @@
     "tmdb:movie:1766910",
     "tmdb:movie:1766933",
     "tmdb:movie:1766936",
-    "tmdb:movie:1766938"
+    "tmdb:movie:1766938",
+    "tmdb:movie:1767332",
+    "tmdb:movie:1767373",
+    "tmdb:movie:1767412",
+    "tmdb:movie:1767423",
+    "tmdb:movie:1768498"
   ]
 }

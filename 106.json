@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "catalogNumber": 106,
-  "version": "2026-09-07",
+  "version": "2026-09-14T09:52:34Z",
   "source": "tmdb-keywords:supernatural,paranormal",
   "providerKeys": [
     "tmdb:tv:32",
@@ -993,6 +993,7 @@
     "tmdb:tv:292166",
     "tmdb:tv:292621",
     "tmdb:tv:292692",
+    "tmdb:tv:293455",
     "tmdb:tv:293489",
     "tmdb:tv:294214",
     "tmdb:tv:294482",
@@ -1052,6 +1053,7 @@
     "tmdb:tv:327868",
     "tmdb:tv:328053",
     "tmdb:tv:328679",
-    "tmdb:tv:333859"
+    "tmdb:tv:333859",
+    "tmdb:tv:335067"
   ]
 }

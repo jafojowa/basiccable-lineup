@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "catalogNumber": 16,
-  "version": "2026-09-09T13:43:30Z",
+  "version": "2026-09-14T09:52:34Z",
   "source": "tmdb-keywords:martial arts,kung fu,karate",
   "providerKeys": [
     "tmdb:movie:24",
@@ -2265,7 +2265,6 @@
     "tmdb:movie:1329643",
     "tmdb:movie:1341726",
     "tmdb:movie:1355766",
-    "tmdb:movie:1356478",
     "tmdb:movie:1357877",
     "tmdb:movie:1357963",
     "tmdb:movie:1365224",
@@ -2364,7 +2363,6 @@
     "tmdb:movie:1745272",
     "tmdb:movie:1749567",
     "tmdb:movie:1754900",
-    "tmdb:movie:1756902",
-    "tmdb:movie:1766067"
+    "tmdb:movie:1756902"
   ]
 }
