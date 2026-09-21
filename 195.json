@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "catalogNumber": 195,
-  "version": "2026-09-14T09:52:34Z",
+  "version": "2026-09-21T09:57:00Z",
   "source": "tmdb-keywords:christmas,santa claus,holiday",
   "providerKeys": [
     "tmdb:movie:68",
@@ -527,6 +527,7 @@
     "tmdb:movie:52055",
     "tmdb:movie:52060",
     "tmdb:movie:52207",
+    "tmdb:movie:52268",
     "tmdb:movie:52320",
     "tmdb:movie:52424",
     "tmdb:movie:52508",
@@ -895,6 +896,7 @@
     "tmdb:movie:147190",
     "tmdb:movie:147490",
     "tmdb:movie:147492",
+    "tmdb:movie:147763",
     "tmdb:movie:148888",
     "tmdb:movie:149023",
     "tmdb:movie:149032",
@@ -1526,7 +1528,6 @@
     "tmdb:movie:402883",
     "tmdb:movie:403400",
     "tmdb:movie:403449",
-    "tmdb:movie:405312",
     "tmdb:movie:406129",
     "tmdb:movie:406994",
     "tmdb:movie:407440",
@@ -3703,6 +3704,7 @@
     "tmdb:movie:1575314",
     "tmdb:movie:1575529",
     "tmdb:movie:1575588",
+    "tmdb:movie:1578318",
     "tmdb:movie:1578602",
     "tmdb:movie:1578605",
     "tmdb:movie:1578723",
@@ -3854,6 +3856,7 @@
     "tmdb:movie:1744433",
     "tmdb:movie:1751138",
     "tmdb:movie:1751154",
+    "tmdb:movie:1751813",
     "tmdb:movie:1754420",
     "tmdb:movie:1754816",
     "tmdb:movie:1754885",
@@ -3866,6 +3869,7 @@
     "tmdb:movie:1761233",
     "tmdb:movie:1765170",
     "tmdb:movie:1765686",
-    "tmdb:movie:1767395"
+    "tmdb:movie:1767395",
+    "tmdb:movie:1773381"
   ]
 }

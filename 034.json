@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "catalogNumber": 34,
-  "version": "2026-09-14T09:52:34Z",
+  "version": "2026-09-21T09:57:00Z",
   "source": "tmdb-keywords:superhero,supervillain",
   "providerKeys": [
     "tmdb:movie:155",
@@ -503,6 +503,7 @@
     "tmdb:movie:320288",
     "tmdb:movie:321528",
     "tmdb:movie:323027",
+    "tmdb:movie:324806",
     "tmdb:movie:324849",
     "tmdb:movie:324857",
     "tmdb:movie:325220",
@@ -1145,6 +1146,7 @@
     "tmdb:movie:1342029",
     "tmdb:movie:1342137",
     "tmdb:movie:1342168",
+    "tmdb:movie:1353926",
     "tmdb:movie:1355303",
     "tmdb:movie:1356119",
     "tmdb:movie:1359227",
@@ -1169,7 +1171,6 @@
     "tmdb:movie:1418823",
     "tmdb:movie:1421006",
     "tmdb:movie:1421414",
-    "tmdb:movie:1423211",
     "tmdb:movie:1424934",
     "tmdb:movie:1424981",
     "tmdb:movie:1426686",
@@ -1249,6 +1250,8 @@
     "tmdb:movie:1760650",
     "tmdb:movie:1766727",
     "tmdb:movie:1766866",
-    "tmdb:movie:1769126"
+    "tmdb:movie:1769126",
+    "tmdb:movie:1771245",
+    "tmdb:movie:1772043"
   ]
 }

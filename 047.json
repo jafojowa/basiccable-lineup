@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "catalogNumber": 47,
-  "version": "2026-09-14T09:52:34Z",
+  "version": "2026-09-21T09:57:00Z",
   "source": "tmdb-keywords:parody,spoof,satire",
   "providerKeys": [
     "tmdb:movie:14",
@@ -1751,7 +1751,7 @@
     "tmdb:movie:1190012",
     "tmdb:movie:1191943",
     "tmdb:movie:1195419",
-    "tmdb:movie:1198450",
+    "tmdb:movie:1198654",
     "tmdb:movie:1199539",
     "tmdb:movie:1200014",
     "tmdb:movie:1203754",
@@ -2138,6 +2138,7 @@
     "tmdb:movie:1593884",
     "tmdb:movie:1594859",
     "tmdb:movie:1595047",
+    "tmdb:movie:1596098",
     "tmdb:movie:1596410",
     "tmdb:movie:1597598",
     "tmdb:movie:1597787",
@@ -2177,7 +2178,6 @@
     "tmdb:movie:1632147",
     "tmdb:movie:1635614",
     "tmdb:movie:1635799",
-    "tmdb:movie:1636855",
     "tmdb:movie:1641431",
     "tmdb:movie:1642451",
     "tmdb:movie:1642553",
@@ -2334,15 +2334,17 @@
     "tmdb:movie:1759878",
     "tmdb:movie:1760856",
     "tmdb:movie:1761119",
-    "tmdb:movie:1764282",
     "tmdb:movie:1764287",
     "tmdb:movie:1764514",
-    "tmdb:movie:1765965",
     "tmdb:movie:1766664",
     "tmdb:movie:1766727",
     "tmdb:movie:1767993",
     "tmdb:movie:1768086",
     "tmdb:movie:1768102",
-    "tmdb:movie:1769649"
+    "tmdb:movie:1769649",
+    "tmdb:movie:1773640",
+    "tmdb:movie:1773667",
+    "tmdb:movie:1773985",
+    "tmdb:movie:1775266"
   ]
 }
