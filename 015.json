@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "catalogNumber": 15,
-  "version": "2026-09-21T09:57:00Z",
+  "version": "2026-09-28T10:55:04Z",
   "source": "tmdb-keywords:serial killer",
   "providerKeys": [
     "tmdb:movie:212",
@@ -21,6 +21,7 @@
     "tmdb:movie:1701",
     "tmdb:movie:1710",
     "tmdb:movie:1803",
+    "tmdb:movie:1923",
     "tmdb:movie:1949",
     "tmdb:movie:2212",
     "tmdb:movie:2666",
@@ -126,6 +127,7 @@
     "tmdb:movie:10961",
     "tmdb:movie:10984",
     "tmdb:movie:10987",
+    "tmdb:movie:11033",
     "tmdb:movie:11074",
     "tmdb:movie:11081",
     "tmdb:movie:11126",
@@ -1088,6 +1090,7 @@
     "tmdb:movie:491488",
     "tmdb:movie:492088",
     "tmdb:movie:493714",
+    "tmdb:movie:494858",
     "tmdb:movie:495433",
     "tmdb:movie:496533",
     "tmdb:movie:496569",
@@ -1336,6 +1339,7 @@
     "tmdb:movie:824210",
     "tmdb:movie:826029",
     "tmdb:movie:826047",
+    "tmdb:movie:826753",
     "tmdb:movie:827931",
     "tmdb:movie:829035",
     "tmdb:movie:830645",
@@ -1500,6 +1504,7 @@
     "tmdb:movie:1105407",
     "tmdb:movie:1105819",
     "tmdb:movie:1107166",
+    "tmdb:movie:1109406",
     "tmdb:movie:1118824",
     "tmdb:movie:1125609",
     "tmdb:movie:1127375",
@@ -1810,6 +1815,8 @@
     "tmdb:movie:1765391",
     "tmdb:movie:1765994",
     "tmdb:movie:1771030",
-    "tmdb:movie:1773994"
+    "tmdb:movie:1773994",
+    "tmdb:movie:1775061",
+    "tmdb:movie:1780858"
   ]
 }

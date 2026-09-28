@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "catalogNumber": 5,
-  "version": "2026-09-21T09:57:00Z",
+  "version": "2026-09-28T10:55:04Z",
   "source": "tmdb-keywords:gangster,mafia,organized crime",
   "providerKeys": [
     "tmdb:movie:73",
@@ -1604,6 +1604,7 @@
     "tmdb:movie:999716",
     "tmdb:movie:1007074",
     "tmdb:movie:1007883",
+    "tmdb:movie:1007890",
     "tmdb:movie:1008409",
     "tmdb:movie:1008522",
     "tmdb:movie:1013601",
@@ -1829,7 +1830,6 @@
     "tmdb:movie:1465852",
     "tmdb:movie:1466527",
     "tmdb:movie:1466610",
-    "tmdb:movie:1467819",
     "tmdb:movie:1467853",
     "tmdb:movie:1468491",
     "tmdb:movie:1470576",
@@ -1941,13 +1941,13 @@
     "tmdb:movie:1737364",
     "tmdb:movie:1737814",
     "tmdb:movie:1741786",
-    "tmdb:movie:1745347",
     "tmdb:movie:1746645",
     "tmdb:movie:1749974",
     "tmdb:movie:1750958",
     "tmdb:movie:1752610",
     "tmdb:movie:1756475",
     "tmdb:movie:1763287",
-    "tmdb:movie:1772619"
+    "tmdb:movie:1772619",
+    "tmdb:movie:1776846"
   ]
 }

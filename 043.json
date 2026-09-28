@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "catalogNumber": 43,
-  "version": "2026-09-21T09:57:00Z",
+  "version": "2026-09-28T10:55:04Z",
   "source": "tmdb-keywords:baseball",
   "providerKeys": [
     "tmdb:movie:287",
@@ -14,7 +14,6 @@
     "tmdb:movie:9957",
     "tmdb:movie:10390",
     "tmdb:movie:10559",
-    "tmdb:movie:10759",
     "tmdb:movie:11064",
     "tmdb:movie:11067",
     "tmdb:movie:11287",
@@ -593,6 +592,7 @@
     "tmdb:movie:1748440",
     "tmdb:movie:1763539",
     "tmdb:movie:1767709",
-    "tmdb:movie:1773014"
+    "tmdb:movie:1773014",
+    "tmdb:movie:1776819"
   ]
 }

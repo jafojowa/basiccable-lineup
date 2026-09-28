@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "catalogNumber": 116,
-  "version": "2026-09-21T09:57:00Z",
+  "version": "2026-09-28T10:55:04Z",
   "source": "tmdb-keywords:sketch comedy",
   "providerKeys": [
     "tmdb:tv:41",
@@ -404,6 +404,7 @@
     "tmdb:tv:319584",
     "tmdb:tv:325296",
     "tmdb:tv:326831",
-    "tmdb:tv:329543"
+    "tmdb:tv:329543",
+    "tmdb:tv:336413"
   ]
 }
