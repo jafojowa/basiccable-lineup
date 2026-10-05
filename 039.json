@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "catalogNumber": 39,
-  "version": "2026-09-28T10:55:04Z",
+  "version": "2026-10-05T11:29:46Z",
   "source": "tmdb-keywords:aviation,airplane,pilot,air force",
   "providerKeys": [
     "tmdb:movie:63",
@@ -769,7 +769,6 @@
     "tmdb:movie:1266781",
     "tmdb:movie:1268254",
     "tmdb:movie:1269453",
-    "tmdb:movie:1271613",
     "tmdb:movie:1291152",
     "tmdb:movie:1296404",
     "tmdb:movie:1304283",
@@ -840,6 +839,7 @@
     "tmdb:movie:1758514",
     "tmdb:movie:1759331",
     "tmdb:movie:1773991",
-    "tmdb:movie:1775016"
+    "tmdb:movie:1775016",
+    "tmdb:movie:1786028"
   ]
 }

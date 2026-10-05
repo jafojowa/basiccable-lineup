@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "catalogNumber": 78,
-  "version": "2026-09-05",
+  "version": "2026-10-05T11:29:46Z",
   "source": "tmdb-keywords:blaxploitation cinema",
   "providerKeys": [
     "tmdb:movie:482",
@@ -68,6 +68,7 @@
     "tmdb:movie:84062",
     "tmdb:movie:84363",
     "tmdb:movie:84728",
+    "tmdb:movie:85521",
     "tmdb:movie:85673",
     "tmdb:movie:85780",
     "tmdb:movie:85837",

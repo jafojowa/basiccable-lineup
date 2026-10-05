@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "catalogNumber": 57,
-  "version": "2026-09-28T10:55:04Z",
+  "version": "2026-10-05T11:29:46Z",
   "source": "tmdb-keywords:nature,wildlife;genres:Documentary;kinds:movie,tv",
   "providerKeys": [
     "tmdb:movie:501",
@@ -558,6 +558,7 @@
     "tmdb:movie:749995",
     "tmdb:movie:751135",
     "tmdb:movie:754371",
+    "tmdb:movie:755052",
     "tmdb:movie:755348",
     "tmdb:movie:755426",
     "tmdb:movie:755507",
@@ -1236,6 +1237,7 @@
     "tmdb:movie:1590839",
     "tmdb:movie:1592172",
     "tmdb:movie:1593929",
+    "tmdb:movie:1595210",
     "tmdb:movie:1596690",
     "tmdb:movie:1597739",
     "tmdb:movie:1599180",
@@ -1334,6 +1336,8 @@
     "tmdb:movie:1771409",
     "tmdb:movie:1771755",
     "tmdb:movie:1776836",
+    "tmdb:movie:1783392",
+    "tmdb:movie:1785476",
     "tmdb:tv:1044",
     "tmdb:tv:1236",
     "tmdb:tv:1904",
@@ -1354,7 +1358,6 @@
     "tmdb:tv:9553",
     "tmdb:tv:9554",
     "tmdb:tv:9555",
-    "tmdb:tv:9784",
     "tmdb:tv:10557",
     "tmdb:tv:13579",
     "tmdb:tv:14951",
@@ -1809,6 +1812,7 @@
     "tmdb:tv:332477",
     "tmdb:tv:332805",
     "tmdb:tv:333524",
-    "tmdb:tv:333995"
+    "tmdb:tv:333995",
+    "tmdb:tv:337420"
   ]
 }

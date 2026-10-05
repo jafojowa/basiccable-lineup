@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "catalogNumber": 6,
-  "version": "2026-09-28T10:55:04Z",
+  "version": "2026-10-05T11:29:46Z",
   "source": "tmdb-keywords:heist,bank robbery,robbery",
   "providerKeys": [
     "tmdb:movie:16",
@@ -547,6 +547,7 @@
     "tmdb:movie:96911",
     "tmdb:movie:97367",
     "tmdb:movie:97434",
+    "tmdb:movie:97614",
     "tmdb:movie:100158",
     "tmdb:movie:100191",
     "tmdb:movie:100373",
@@ -1422,6 +1423,7 @@
     "tmdb:movie:1361436",
     "tmdb:movie:1364324",
     "tmdb:movie:1366054",
+    "tmdb:movie:1366805",
     "tmdb:movie:1367739",
     "tmdb:movie:1380486",
     "tmdb:movie:1383380",
@@ -1555,6 +1557,8 @@
     "tmdb:movie:1767251",
     "tmdb:movie:1770043",
     "tmdb:movie:1776917",
-    "tmdb:movie:1782542"
+    "tmdb:movie:1782542",
+    "tmdb:movie:1787003",
+    "tmdb:movie:1788482"
   ]
 }

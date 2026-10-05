@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "catalogNumber": 33,
-  "version": "2026-09-28T10:55:04Z",
+  "version": "2026-10-05T11:29:46Z",
   "source": "tmdb-keywords:hacker,cyberpunk",
   "providerKeys": [
     "tmdb:movie:18",
@@ -454,6 +454,8 @@
     "tmdb:movie:1759937",
     "tmdb:movie:1773061",
     "tmdb:movie:1777720",
-    "tmdb:movie:1781527"
+    "tmdb:movie:1781527",
+    "tmdb:movie:1787331",
+    "tmdb:movie:1787984"
   ]
 }
