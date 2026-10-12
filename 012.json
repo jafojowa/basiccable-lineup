@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "catalogNumber": 12,
-  "version": "2026-09-28T10:55:04Z",
+  "version": "2026-10-12T11:59:32Z",
   "source": "tmdb-keywords:con artist,swindle,scam",
   "providerKeys": [
     "tmdb:movie:161",
@@ -60,6 +60,7 @@
     "tmdb:movie:40618",
     "tmdb:movie:40682",
     "tmdb:movie:41782",
+    "tmdb:movie:42170",
     "tmdb:movie:42323",
     "tmdb:movie:42659",
     "tmdb:movie:43441",
@@ -292,6 +293,7 @@
     "tmdb:movie:1607392",
     "tmdb:movie:1608055",
     "tmdb:movie:1609301",
+    "tmdb:movie:1612958",
     "tmdb:movie:1634380",
     "tmdb:movie:1663096",
     "tmdb:movie:1684226",

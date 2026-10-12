@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "catalogNumber": 29,
-  "version": "2026-10-05T11:29:46Z",
+  "version": "2026-10-12T11:59:32Z",
   "source": "tmdb-keywords:time travel,time loop",
   "providerKeys": [
     "tmdb:movie:63",
@@ -430,6 +430,7 @@
     "tmdb:movie:292988",
     "tmdb:movie:293970",
     "tmdb:movie:295900",
+    "tmdb:movie:297803",
     "tmdb:movie:298618",
     "tmdb:movie:299056",
     "tmdb:movie:299534",
@@ -592,6 +593,7 @@
     "tmdb:movie:475215",
     "tmdb:movie:475961",
     "tmdb:movie:476389",
+    "tmdb:movie:477652",
     "tmdb:movie:477838",
     "tmdb:movie:478829",
     "tmdb:movie:478943",
@@ -1346,6 +1348,8 @@
     "tmdb:movie:1778714",
     "tmdb:movie:1779601",
     "tmdb:movie:1780389",
-    "tmdb:movie:1787032"
+    "tmdb:movie:1787032",
+    "tmdb:movie:1789401",
+    "tmdb:movie:1789749"
   ]
 }

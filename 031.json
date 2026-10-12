@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "catalogNumber": 31,
-  "version": "2026-09-21T09:57:00Z",
+  "version": "2026-10-12T11:59:32Z",
   "source": "tmdb-keywords:robot,artificial intelligence,android,cyborg",
   "providerKeys": [
     "tmdb:movie:11",
@@ -891,6 +891,7 @@
     "tmdb:movie:1754544",
     "tmdb:movie:1756764",
     "tmdb:movie:1757674",
-    "tmdb:movie:1763616"
+    "tmdb:movie:1763616",
+    "tmdb:movie:1794181"
   ]
 }
