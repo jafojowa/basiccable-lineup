@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "catalogNumber": 30,
-  "version": "2026-10-12T11:59:32Z",
+  "version": "2026-10-19T09:54:47Z",
   "source": "tmdb-keywords:post-apocalyptic future,dystopia",
   "providerKeys": [
     "tmdb:movie:18",
@@ -985,6 +985,7 @@
     "tmdb:movie:813418",
     "tmdb:movie:817148",
     "tmdb:movie:819876",
+    "tmdb:movie:820788",
     "tmdb:movie:823219",
     "tmdb:movie:823719",
     "tmdb:movie:824068",
@@ -1341,7 +1342,6 @@
     "tmdb:movie:1323370",
     "tmdb:movie:1323628",
     "tmdb:movie:1325240",
-    "tmdb:movie:1331490",
     "tmdb:movie:1333100",
     "tmdb:movie:1338935",
     "tmdb:movie:1340983",
@@ -1610,6 +1610,11 @@
     "tmdb:movie:1788128",
     "tmdb:movie:1791549",
     "tmdb:movie:1792019",
-    "tmdb:movie:1793421"
+    "tmdb:movie:1793421",
+    "tmdb:movie:1798452",
+    "tmdb:movie:1798494",
+    "tmdb:movie:1798509",
+    "tmdb:movie:1798555",
+    "tmdb:movie:1798920"
   ]
 }

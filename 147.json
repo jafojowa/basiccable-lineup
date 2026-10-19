@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "catalogNumber": 147,
-  "version": "2026-10-12T11:59:32Z",
+  "version": "2026-10-19T09:54:47Z",
   "source": "tmdb-keywords:superhero,supervillain",
   "providerKeys": [
     "tmdb:tv:131",
@@ -282,7 +282,6 @@
     "tmdb:tv:51523",
     "tmdb:tv:52264",
     "tmdb:tv:53298",
-    "tmdb:tv:56021",
     "tmdb:tv:57110",
     "tmdb:tv:58981",
     "tmdb:tv:59041",
@@ -655,6 +654,7 @@
     "tmdb:tv:306721",
     "tmdb:tv:310151",
     "tmdb:tv:310720",
+    "tmdb:tv:314498",
     "tmdb:tv:316037",
     "tmdb:tv:318686",
     "tmdb:tv:319003",
@@ -668,6 +668,8 @@
     "tmdb:tv:327089",
     "tmdb:tv:330668",
     "tmdb:tv:331916",
-    "tmdb:tv:336195"
+    "tmdb:tv:336195",
+    "tmdb:tv:338740",
+    "tmdb:tv:338873"
   ]
 }

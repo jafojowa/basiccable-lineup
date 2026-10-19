@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "catalogNumber": 10,
-  "version": "2026-10-12T11:59:32Z",
+  "version": "2026-10-19T09:54:47Z",
   "source": "tmdb-keywords:conspiracy,paranoia,cover-up",
   "providerKeys": [
     "tmdb:movie:63",
@@ -441,6 +441,7 @@
     "tmdb:movie:223841",
     "tmdb:movie:224089",
     "tmdb:movie:224507",
+    "tmdb:movie:228805",
     "tmdb:movie:230656",
     "tmdb:movie:232319",
     "tmdb:movie:233226",
@@ -636,6 +637,7 @@
     "tmdb:movie:530385",
     "tmdb:movie:531687",
     "tmdb:movie:539208",
+    "tmdb:movie:540141",
     "tmdb:movie:541560",
     "tmdb:movie:543977",
     "tmdb:movie:544542",
@@ -774,6 +776,7 @@
     "tmdb:movie:997012",
     "tmdb:movie:1002338",
     "tmdb:movie:1009484",
+    "tmdb:movie:1012183",
     "tmdb:movie:1012878",
     "tmdb:movie:1017926",
     "tmdb:movie:1018121",
@@ -784,6 +787,7 @@
     "tmdb:movie:1042771",
     "tmdb:movie:1042952",
     "tmdb:movie:1050988",
+    "tmdb:movie:1056133",
     "tmdb:movie:1060185",
     "tmdb:movie:1061771",
     "tmdb:movie:1061990",
@@ -962,6 +966,7 @@
     "tmdb:movie:1601738",
     "tmdb:movie:1611419",
     "tmdb:movie:1614208",
+    "tmdb:movie:1617774",
     "tmdb:movie:1619610",
     "tmdb:movie:1620067",
     "tmdb:movie:1620269",
@@ -1025,6 +1030,7 @@
     "tmdb:movie:1749659",
     "tmdb:movie:1755353",
     "tmdb:movie:1757015",
+    "tmdb:movie:1757213",
     "tmdb:movie:1758552",
     "tmdb:movie:1760411",
     "tmdb:movie:1763709",
@@ -1042,6 +1048,9 @@
     "tmdb:movie:1789496",
     "tmdb:movie:1790228",
     "tmdb:movie:1790735",
-    "tmdb:movie:1793097"
+    "tmdb:movie:1793097",
+    "tmdb:movie:1796555",
+    "tmdb:movie:1798433",
+    "tmdb:movie:1799179"
   ]
 }

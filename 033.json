@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "catalogNumber": 33,
-  "version": "2026-10-12T11:59:32Z",
+  "version": "2026-10-19T09:54:47Z",
   "source": "tmdb-keywords:hacker,cyberpunk",
   "providerKeys": [
     "tmdb:movie:18",
@@ -132,6 +132,7 @@
     "tmdb:movie:73529",
     "tmdb:movie:73530",
     "tmdb:movie:76287",
+    "tmdb:movie:77674",
     "tmdb:movie:78188",
     "tmdb:movie:78807",
     "tmdb:movie:88879",
@@ -156,6 +157,7 @@
     "tmdb:movie:157460",
     "tmdb:movie:160393",
     "tmdb:movie:160399",
+    "tmdb:movie:160778",
     "tmdb:movie:166795",
     "tmdb:movie:171942",
     "tmdb:movie:175423",

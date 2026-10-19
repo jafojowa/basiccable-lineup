@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "catalogNumber": 109,
-  "version": "2026-10-05T11:29:46Z",
+  "version": "2026-10-19T09:54:47Z",
   "source": "tmdb-keywords:science,scientist",
   "providerKeys": [
     "tmdb:tv:607",
@@ -79,6 +79,7 @@
     "tmdb:tv:67473",
     "tmdb:tv:68939",
     "tmdb:tv:69773",
+    "tmdb:tv:69952",
     "tmdb:tv:70161",
     "tmdb:tv:73431",
     "tmdb:tv:73577",
@@ -139,6 +140,7 @@
     "tmdb:tv:202102",
     "tmdb:tv:204635",
     "tmdb:tv:211240",
+    "tmdb:tv:212226",
     "tmdb:tv:216240",
     "tmdb:tv:216585",
     "tmdb:tv:219958",
@@ -163,10 +165,13 @@
     "tmdb:tv:241960",
     "tmdb:tv:246148",
     "tmdb:tv:249454",
+    "tmdb:tv:250325",
     "tmdb:tv:250394",
     "tmdb:tv:250757",
     "tmdb:tv:252560",
     "tmdb:tv:256815",
+    "tmdb:tv:257092",
+    "tmdb:tv:257121",
     "tmdb:tv:259390",
     "tmdb:tv:270777",
     "tmdb:tv:273367",
@@ -204,6 +209,7 @@
     "tmdb:tv:329357",
     "tmdb:tv:333995",
     "tmdb:tv:335530",
-    "tmdb:tv:336513"
+    "tmdb:tv:336513",
+    "tmdb:tv:338640"
   ]
 }
