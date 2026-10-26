@@ -1,11 +1,12 @@
 {
   "formatVersion": 1,
   "catalogNumber": 116,
-  "version": "2026-10-12T11:59:32Z",
+  "version": "2026-10-26T10:07:51Z",
   "source": "tmdb-keywords:sketch comedy",
   "providerKeys": [
     "tmdb:tv:41",
     "tmdb:tv:48",
+    "tmdb:tv:70",
     "tmdb:tv:112",
     "tmdb:tv:189",
     "tmdb:tv:192",

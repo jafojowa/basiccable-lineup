@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "catalogNumber": 97,
-  "version": "2026-10-19T09:54:47Z",
+  "version": "2026-10-26T10:07:51Z",
   "source": "tmdb-keywords:hospital,doctor,medical",
   "providerKeys": [
     "tmdb:tv:24",
@@ -158,6 +158,8 @@
     "tmdb:tv:35962",
     "tmdb:tv:36006",
     "tmdb:tv:36361",
+    "tmdb:tv:36409",
+    "tmdb:tv:36989",
     "tmdb:tv:37115",
     "tmdb:tv:38242",
     "tmdb:tv:39112",
@@ -335,6 +337,7 @@
     "tmdb:tv:82396",
     "tmdb:tv:82444",
     "tmdb:tv:82472",
+    "tmdb:tv:82765",
     "tmdb:tv:82947",
     "tmdb:tv:83392",
     "tmdb:tv:84176",
@@ -642,6 +645,7 @@
     "tmdb:tv:332811",
     "tmdb:tv:332863",
     "tmdb:tv:334085",
+    "tmdb:tv:334253",
     "tmdb:tv:336010",
     "tmdb:tv:336787",
     "tmdb:tv:336997"

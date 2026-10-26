@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "catalogNumber": 22,
-  "version": "2026-10-19T09:54:47Z",
+  "version": "2026-10-26T10:07:51Z",
   "source": "tmdb-keywords:vampire,werewolf",
   "providerKeys": [
     "tmdb:movie:138",
@@ -552,6 +552,7 @@
     "tmdb:movie:119589",
     "tmdb:movie:120092",
     "tmdb:movie:120303",
+    "tmdb:movie:123501",
     "tmdb:movie:123553",
     "tmdb:movie:123793",
     "tmdb:movie:124135",
@@ -1114,6 +1115,7 @@
     "tmdb:movie:511449",
     "tmdb:movie:512208",
     "tmdb:movie:512525",
+    "tmdb:movie:514787",
     "tmdb:movie:515162",
     "tmdb:movie:515389",
     "tmdb:movie:518800",
@@ -1441,6 +1443,7 @@
     "tmdb:movie:976027",
     "tmdb:movie:976034",
     "tmdb:movie:976209",
+    "tmdb:movie:976536",
     "tmdb:movie:976767",
     "tmdb:movie:976798",
     "tmdb:movie:977034",
@@ -1895,6 +1898,13 @@
     "tmdb:movie:1789496",
     "tmdb:movie:1792737",
     "tmdb:movie:1798581",
-    "tmdb:movie:1800332"
+    "tmdb:movie:1800332",
+    "tmdb:movie:1802158",
+    "tmdb:movie:1802789",
+    "tmdb:movie:1803699",
+    "tmdb:movie:1803873",
+    "tmdb:movie:1804290",
+    "tmdb:movie:1805027",
+    "tmdb:movie:1807137"
   ]
 }

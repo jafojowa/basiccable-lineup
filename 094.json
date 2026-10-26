@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "catalogNumber": 94,
-  "version": "2026-10-19T09:54:47Z",
+  "version": "2026-10-26T10:07:51Z",
   "source": "tmdb-keywords:teenager,high school",
   "providerKeys": [
     "tmdb:tv:6",
@@ -237,6 +237,7 @@
     "tmdb:tv:42370",
     "tmdb:tv:42413",
     "tmdb:tv:42419",
+    "tmdb:tv:42425",
     "tmdb:tv:42500",
     "tmdb:tv:42511",
     "tmdb:tv:42557",
@@ -776,6 +777,7 @@
     "tmdb:tv:132280",
     "tmdb:tv:132992",
     "tmdb:tv:133470",
+    "tmdb:tv:135145",
     "tmdb:tv:135355",
     "tmdb:tv:135840",
     "tmdb:tv:135897",

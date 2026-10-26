@@ -1,11 +1,12 @@
 {
   "formatVersion": 1,
   "catalogNumber": 41,
-  "version": "2026-10-19T09:54:47Z",
+  "version": "2026-10-26T10:07:51Z",
   "source": "tmdb-keywords:boxing,mixed martial arts",
   "providerKeys": [
     "tmdb:movie:6",
     "tmdb:movie:70",
+    "tmdb:movie:107",
     "tmdb:movie:901",
     "tmdb:movie:921",
     "tmdb:movie:1246",

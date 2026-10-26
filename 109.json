@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "catalogNumber": 109,
-  "version": "2026-10-19T09:54:47Z",
+  "version": "2026-10-26T10:07:51Z",
   "source": "tmdb-keywords:science,scientist",
   "providerKeys": [
     "tmdb:tv:607",
@@ -178,6 +178,7 @@
     "tmdb:tv:275366",
     "tmdb:tv:280141",
     "tmdb:tv:280627",
+    "tmdb:tv:282401",
     "tmdb:tv:283790",
     "tmdb:tv:286105",
     "tmdb:tv:289863",

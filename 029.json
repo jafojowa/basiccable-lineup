@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "catalogNumber": 29,
-  "version": "2026-10-19T09:54:47Z",
+  "version": "2026-10-26T10:07:51Z",
   "source": "tmdb-keywords:time travel,time loop",
   "providerKeys": [
     "tmdb:movie:63",
@@ -154,6 +154,7 @@
     "tmdb:movie:36699",
     "tmdb:movie:36819",
     "tmdb:movie:36848",
+    "tmdb:movie:36865",
     "tmdb:movie:36868",
     "tmdb:movie:37054",
     "tmdb:movie:37108",
@@ -360,6 +361,7 @@
     "tmdb:movie:216139",
     "tmdb:movie:217341",
     "tmdb:movie:217961",
+    "tmdb:movie:218726",
     "tmdb:movie:219707",
     "tmdb:movie:220289",
     "tmdb:movie:221534",
@@ -1174,6 +1176,7 @@
     "tmdb:movie:1480749",
     "tmdb:movie:1483580",
     "tmdb:movie:1485372",
+    "tmdb:movie:1486012",
     "tmdb:movie:1488135",
     "tmdb:movie:1489389",
     "tmdb:movie:1492401",
@@ -1311,7 +1314,6 @@
     "tmdb:movie:1729843",
     "tmdb:movie:1730319",
     "tmdb:movie:1731559",
-    "tmdb:movie:1731803",
     "tmdb:movie:1732110",
     "tmdb:movie:1732354",
     "tmdb:movie:1735822",
@@ -1348,6 +1350,7 @@
     "tmdb:movie:1778714",
     "tmdb:movie:1779601",
     "tmdb:movie:1780389",
+    "tmdb:movie:1783207",
     "tmdb:movie:1787032",
     "tmdb:movie:1789401",
     "tmdb:movie:1789749",
@@ -1355,6 +1358,8 @@
     "tmdb:movie:1795251",
     "tmdb:movie:1797223",
     "tmdb:movie:1797369",
-    "tmdb:movie:1798534"
+    "tmdb:movie:1798534",
+    "tmdb:movie:1800364",
+    "tmdb:movie:1801730"
   ]
 }
