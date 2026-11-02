@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "catalogNumber": 106,
-  "version": "2026-10-26T10:07:51Z",
+  "version": "2026-11-02T12:25:02Z",
   "source": "tmdb-keywords:supernatural,paranormal",
   "providerKeys": [
     "tmdb:tv:32",
@@ -101,6 +101,7 @@
     "tmdb:tv:21998",
     "tmdb:tv:22634",
     "tmdb:tv:23406",
+    "tmdb:tv:24318",
     "tmdb:tv:24835",
     "tmdb:tv:25126",
     "tmdb:tv:25499",
@@ -185,6 +186,7 @@
     "tmdb:tv:37664",
     "tmdb:tv:37774",
     "tmdb:tv:37779",
+    "tmdb:tv:38112",
     "tmdb:tv:38132",
     "tmdb:tv:38215",
     "tmdb:tv:38420",
@@ -321,6 +323,7 @@
     "tmdb:tv:62601",
     "tmdb:tv:62741",
     "tmdb:tv:62773",
+    "tmdb:tv:62883",
     "tmdb:tv:63085",
     "tmdb:tv:63089",
     "tmdb:tv:63119",
@@ -445,9 +448,11 @@
     "tmdb:tv:74098",
     "tmdb:tv:74104",
     "tmdb:tv:74640",
+    "tmdb:tv:74820",
     "tmdb:tv:74939",
     "tmdb:tv:74940",
     "tmdb:tv:75000",
+    "tmdb:tv:75775",
     "tmdb:tv:75864",
     "tmdb:tv:75887",
     "tmdb:tv:76012",
@@ -906,6 +911,7 @@
     "tmdb:tv:233667",
     "tmdb:tv:233715",
     "tmdb:tv:234370",
+    "tmdb:tv:234995",
     "tmdb:tv:235199",
     "tmdb:tv:235577",
     "tmdb:tv:235829",
@@ -1096,6 +1102,9 @@
     "tmdb:tv:338185",
     "tmdb:tv:338325",
     "tmdb:tv:338909",
-    "tmdb:tv:339309"
+    "tmdb:tv:339151",
+    "tmdb:tv:339309",
+    "tmdb:tv:340275",
+    "tmdb:tv:340566"
   ]
 }

@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "catalogNumber": 23,
-  "version": "2026-10-26T10:07:51Z",
+  "version": "2026-11-02T12:25:02Z",
   "source": "tmdb-keywords:haunted house,ghost,haunting",
   "providerKeys": [
     "tmdb:movie:219",
@@ -237,6 +237,7 @@
     "tmdb:movie:43565",
     "tmdb:movie:44108",
     "tmdb:movie:44203",
+    "tmdb:movie:44424",
     "tmdb:movie:44673",
     "tmdb:movie:44690",
     "tmdb:movie:44698",
@@ -370,7 +371,6 @@
     "tmdb:movie:83473",
     "tmdb:movie:83613",
     "tmdb:movie:83820",
-    "tmdb:movie:84368",
     "tmdb:movie:84508",
     "tmdb:movie:84577",
     "tmdb:movie:84992",
@@ -2558,6 +2558,9 @@
     "tmdb:movie:1805136",
     "tmdb:movie:1806132",
     "tmdb:movie:1807122",
-    "tmdb:movie:1807757"
+    "tmdb:movie:1807757",
+    "tmdb:movie:1810250",
+    "tmdb:movie:1810968",
+    "tmdb:movie:1812445"
   ]
 }

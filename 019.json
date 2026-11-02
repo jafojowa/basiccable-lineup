@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "catalogNumber": 19,
-  "version": "2026-10-26T10:07:51Z",
+  "version": "2026-11-02T12:25:02Z",
   "source": "tmdb-keywords:monster,kaiju,giant monster,shark",
   "providerKeys": [
     "tmdb:movie:12",
@@ -356,6 +356,7 @@
     "tmdb:movie:43933",
     "tmdb:movie:43959",
     "tmdb:movie:44045",
+    "tmdb:movie:44424",
     "tmdb:movie:44545",
     "tmdb:movie:44591",
     "tmdb:movie:44732",
@@ -1288,6 +1289,7 @@
     "tmdb:movie:854455",
     "tmdb:movie:856289",
     "tmdb:movie:857504",
+    "tmdb:movie:858159",
     "tmdb:movie:859010",
     "tmdb:movie:861057",
     "tmdb:movie:863742",
@@ -1581,6 +1583,7 @@
     "tmdb:movie:1239253",
     "tmdb:movie:1240583",
     "tmdb:movie:1241103",
+    "tmdb:movie:1242563",
     "tmdb:movie:1246006",
     "tmdb:movie:1250200",
     "tmdb:movie:1254877",
@@ -1809,6 +1812,7 @@
     "tmdb:movie:1706739",
     "tmdb:movie:1708188",
     "tmdb:movie:1712144",
+    "tmdb:movie:1712454",
     "tmdb:movie:1712828",
     "tmdb:movie:1714709",
     "tmdb:movie:1715368",
@@ -1856,6 +1860,9 @@
     "tmdb:movie:1797935",
     "tmdb:movie:1801313",
     "tmdb:movie:1802825",
-    "tmdb:movie:1807895"
+    "tmdb:movie:1807895",
+    "tmdb:movie:1808138",
+    "tmdb:movie:1811016",
+    "tmdb:movie:1813355"
   ]
 }

@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "catalogNumber": 147,
-  "version": "2026-10-26T10:07:51Z",
+  "version": "2026-11-02T12:25:02Z",
   "source": "tmdb-keywords:superhero,supervillain",
   "providerKeys": [
     "tmdb:tv:131",
@@ -362,6 +362,7 @@
     "tmdb:tv:73169",
     "tmdb:tv:73413",
     "tmdb:tv:73471",
+    "tmdb:tv:73919",
     "tmdb:tv:73946",
     "tmdb:tv:74093",
     "tmdb:tv:74432",

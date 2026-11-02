@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "catalogNumber": 44,
-  "version": "2026-10-26T10:07:51Z",
+  "version": "2026-11-02T12:25:02Z",
   "source": "tmdb-keywords:american football",
   "providerKeys": [
     "tmdb:movie:4942",
@@ -290,7 +290,6 @@
     "tmdb:movie:1047222",
     "tmdb:movie:1080928",
     "tmdb:movie:1082095",
-    "tmdb:movie:1107272",
     "tmdb:movie:1112511",
     "tmdb:movie:1112512",
     "tmdb:movie:1119429",

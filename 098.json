@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "catalogNumber": 98,
-  "version": "2026-10-26T10:07:51Z",
+  "version": "2026-11-02T12:25:02Z",
   "source": "tmdb-keywords:lawyer,courtroom",
   "providerKeys": [
     "tmdb:tv:150",
@@ -387,6 +387,7 @@
     "tmdb:tv:286089",
     "tmdb:tv:286711",
     "tmdb:tv:288124",
+    "tmdb:tv:293441",
     "tmdb:tv:294604",
     "tmdb:tv:295297",
     "tmdb:tv:298343",
