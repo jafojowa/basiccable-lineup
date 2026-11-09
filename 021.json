@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "catalogNumber": 21,
-  "version": "2026-11-02T12:25:02Z",
+  "version": "2026-11-09T12:52:39Z",
   "source": "tmdb-keywords:zombie,undead,zombie apocalypse",
   "providerKeys": [
     "tmdb:movie:138",
@@ -261,6 +261,7 @@
     "tmdb:movie:46429",
     "tmdb:movie:46467",
     "tmdb:movie:47177",
+    "tmdb:movie:47519",
     "tmdb:movie:48312",
     "tmdb:movie:48350",
     "tmdb:movie:48494",
@@ -903,6 +904,7 @@
     "tmdb:movie:472228",
     "tmdb:movie:472261",
     "tmdb:movie:472876",
+    "tmdb:movie:473465",
     "tmdb:movie:474105",
     "tmdb:movie:475433",
     "tmdb:movie:476126",
@@ -1239,6 +1241,7 @@
     "tmdb:movie:956065",
     "tmdb:movie:957289",
     "tmdb:movie:959646",
+    "tmdb:movie:968785",
     "tmdb:movie:969957",
     "tmdb:movie:972928",
     "tmdb:movie:973929",
@@ -1690,6 +1693,8 @@
     "tmdb:movie:1746618",
     "tmdb:movie:1748236",
     "tmdb:movie:1750538",
+    "tmdb:movie:1751065",
+    "tmdb:movie:1757949",
     "tmdb:movie:1758989",
     "tmdb:movie:1767505",
     "tmdb:movie:1768121",
@@ -1721,6 +1726,9 @@
     "tmdb:movie:1811016",
     "tmdb:movie:1811799",
     "tmdb:movie:1812800",
-    "tmdb:movie:1813096"
+    "tmdb:movie:1813096",
+    "tmdb:movie:1815756",
+    "tmdb:movie:1816998",
+    "tmdb:movie:1821965"
   ]
 }

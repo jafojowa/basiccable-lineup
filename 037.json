@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "catalogNumber": 37,
-  "version": "2026-11-02T12:25:02Z",
+  "version": "2026-11-09T12:52:39Z",
   "source": "tmdb-keywords:survival,stranded",
   "providerKeys": [
     "tmdb:movie:74",
@@ -938,6 +938,7 @@
     "tmdb:movie:1744698",
     "tmdb:movie:1748855",
     "tmdb:movie:1749164",
+    "tmdb:movie:1752217",
     "tmdb:movie:1754125",
     "tmdb:movie:1756475",
     "tmdb:movie:1757206",
@@ -960,6 +961,8 @@
     "tmdb:movie:1803448",
     "tmdb:movie:1808156",
     "tmdb:movie:1810450",
-    "tmdb:movie:1812879"
+    "tmdb:movie:1812879",
+    "tmdb:movie:1819451",
+    "tmdb:movie:1820508"
   ]
 }

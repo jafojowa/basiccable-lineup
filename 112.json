@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "catalogNumber": 112,
-  "version": "2026-10-19T09:54:47Z",
+  "version": "2026-11-09T12:52:39Z",
   "source": "tmdb-keywords:home improvement,renovation",
   "providerKeys": [
     "tmdb:tv:389",
@@ -119,6 +119,7 @@
     "tmdb:tv:323541",
     "tmdb:tv:330805",
     "tmdb:tv:331461",
-    "tmdb:tv:337983"
+    "tmdb:tv:337983",
+    "tmdb:tv:340187"
   ]
 }
