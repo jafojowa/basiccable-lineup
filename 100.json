@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "catalogNumber": 100,
-  "version": "2026-11-09T12:52:39Z",
+  "version": "2026-11-16T12:45:39Z",
   "source": "tmdb-keywords:mafia,organized crime,drug cartel",
   "providerKeys": [
     "tmdb:tv:383",
@@ -309,7 +309,6 @@
     "tmdb:tv:303250",
     "tmdb:tv:307006",
     "tmdb:tv:307014",
-    "tmdb:tv:307174",
     "tmdb:tv:307624",
     "tmdb:tv:307883",
     "tmdb:tv:310953",

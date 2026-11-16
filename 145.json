@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "catalogNumber": 145,
-  "version": "2026-11-09T12:52:39Z",
+  "version": "2026-11-16T12:45:39Z",
   "source": "tmdb-keywords:fashion,makeover,model",
   "providerKeys": [
     "tmdb:tv:331",
@@ -254,8 +254,10 @@
     "tmdb:tv:318415",
     "tmdb:tv:320462",
     "tmdb:tv:320771",
+    "tmdb:tv:325422",
     "tmdb:tv:326514",
     "tmdb:tv:340321",
-    "tmdb:tv:341094"
+    "tmdb:tv:341094",
+    "tmdb:tv:341931"
   ]
 }

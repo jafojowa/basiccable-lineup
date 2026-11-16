@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "catalogNumber": 60,
-  "version": "2026-11-09T12:52:39Z",
+  "version": "2026-11-16T12:45:39Z",
   "source": "tmdb-keywords:mockumentary",
   "providerKeys": [
     "tmdb:movie:496",
@@ -1346,7 +1346,6 @@
     "tmdb:movie:1579220",
     "tmdb:movie:1579557",
     "tmdb:movie:1579579",
-    "tmdb:movie:1580320",
     "tmdb:movie:1580488",
     "tmdb:movie:1580630",
     "tmdb:movie:1580957",
@@ -1354,6 +1353,7 @@
     "tmdb:movie:1585163",
     "tmdb:movie:1585195",
     "tmdb:movie:1587378",
+    "tmdb:movie:1587473",
     "tmdb:movie:1587655",
     "tmdb:movie:1587664",
     "tmdb:movie:1587674",
@@ -1376,6 +1376,7 @@
     "tmdb:movie:1607589",
     "tmdb:movie:1608648",
     "tmdb:movie:1610585",
+    "tmdb:movie:1611483",
     "tmdb:movie:1611571",
     "tmdb:movie:1612196",
     "tmdb:movie:1614379",
@@ -1539,6 +1540,10 @@
     "tmdb:movie:1812323",
     "tmdb:movie:1812563",
     "tmdb:movie:1816408",
-    "tmdb:movie:1820925"
+    "tmdb:movie:1820925",
+    "tmdb:movie:1822052",
+    "tmdb:movie:1823221",
+    "tmdb:movie:1823489",
+    "tmdb:movie:1825421"
   ]
 }

@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "catalogNumber": 25,
-  "version": "2026-11-09T12:52:39Z",
+  "version": "2026-11-16T12:45:39Z",
   "source": "tmdb-keywords:cult film,b movie,exploitation",
   "providerKeys": [
     "tmdb:movie:540",
@@ -1003,6 +1003,7 @@
     "tmdb:movie:1262620",
     "tmdb:movie:1270121",
     "tmdb:movie:1290429",
+    "tmdb:movie:1291806",
     "tmdb:movie:1298810",
     "tmdb:movie:1307179",
     "tmdb:movie:1308881",
@@ -1097,6 +1098,9 @@
     "tmdb:movie:1817825",
     "tmdb:movie:1817827",
     "tmdb:movie:1820570",
-    "tmdb:movie:1821045"
+    "tmdb:movie:1821045",
+    "tmdb:movie:1822053",
+    "tmdb:movie:1824126",
+    "tmdb:movie:1824747"
   ]
 }

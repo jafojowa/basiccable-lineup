@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "catalogNumber": 70,
-  "version": "2026-11-09T12:52:39Z",
+  "version": "2026-11-16T12:45:39Z",
   "source": "tmdb-keywords:based on video game,video game",
   "providerKeys": [
     "tmdb:movie:97",
@@ -901,7 +901,6 @@
     "tmdb:movie:1750280",
     "tmdb:movie:1752331",
     "tmdb:movie:1769403",
-    "tmdb:movie:1770302",
     "tmdb:movie:1770600",
     "tmdb:movie:1772043",
     "tmdb:movie:1773059",
@@ -917,6 +916,7 @@
     "tmdb:movie:1810772",
     "tmdb:movie:1812135",
     "tmdb:movie:1820346",
-    "tmdb:movie:1821231"
+    "tmdb:movie:1821231",
+    "tmdb:movie:1824667"
   ]
 }

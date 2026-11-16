@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "catalogNumber": 32,
-  "version": "2026-10-26T10:07:51Z",
+  "version": "2026-11-16T12:45:39Z",
   "source": "tmdb-keywords:alien invasion,extraterrestrial",
   "providerKeys": [
     "tmdb:movie:74",
@@ -74,6 +74,7 @@
     "tmdb:movie:32613",
     "tmdb:movie:32986",
     "tmdb:movie:33064",
+    "tmdb:movie:34065",
     "tmdb:movie:34812",
     "tmdb:movie:36139",
     "tmdb:movie:37633",
@@ -394,7 +395,6 @@
     "tmdb:movie:1548762",
     "tmdb:movie:1559984",
     "tmdb:movie:1563464",
-    "tmdb:movie:1580320",
     "tmdb:movie:1601947",
     "tmdb:movie:1620369",
     "tmdb:movie:1626897",
@@ -412,6 +412,7 @@
     "tmdb:movie:1766367",
     "tmdb:movie:1780404",
     "tmdb:movie:1786219",
-    "tmdb:movie:1803394"
+    "tmdb:movie:1803394",
+    "tmdb:movie:1825024"
   ]
 }

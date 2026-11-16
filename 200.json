@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "catalogNumber": 200,
-  "version": "2026-11-02T12:25:02Z",
+  "version": "2026-11-16T12:45:39Z",
   "source": "tmdb-keywords:new year's eve,new year",
   "providerKeys": [
     "tmdb:movie:5",
@@ -80,6 +80,7 @@
     "tmdb:movie:62838",
     "tmdb:movie:69165",
     "tmdb:movie:71995",
+    "tmdb:movie:80070",
     "tmdb:movie:80708",
     "tmdb:movie:82296",
     "tmdb:movie:82302",
@@ -170,6 +171,7 @@
     "tmdb:movie:658231",
     "tmdb:movie:661814",
     "tmdb:movie:667879",
+    "tmdb:movie:674387",
     "tmdb:movie:686068",
     "tmdb:movie:696785",
     "tmdb:movie:734280",
