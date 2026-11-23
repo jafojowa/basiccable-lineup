@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "catalogNumber": 94,
-  "version": "2026-11-16T12:45:39Z",
+  "version": "2026-11-23T14:39:26Z",
   "source": "tmdb-keywords:teenager,high school",
   "providerKeys": [
     "tmdb:tv:6",
@@ -60,6 +60,7 @@
     "tmdb:tv:2815",
     "tmdb:tv:3089",
     "tmdb:tv:3159",
+    "tmdb:tv:3365",
     "tmdb:tv:3418",
     "tmdb:tv:3471",
     "tmdb:tv:3482",
@@ -98,6 +99,7 @@
     "tmdb:tv:5917",
     "tmdb:tv:6009",
     "tmdb:tv:6173",
+    "tmdb:tv:6446",
     "tmdb:tv:6484",
     "tmdb:tv:6513",
     "tmdb:tv:6521",
@@ -214,6 +216,7 @@
     "tmdb:tv:36837",
     "tmdb:tv:36941",
     "tmdb:tv:37101",
+    "tmdb:tv:37184",
     "tmdb:tv:37522",
     "tmdb:tv:37539",
     "tmdb:tv:37555",
@@ -332,6 +335,7 @@
     "tmdb:tv:60824",
     "tmdb:tv:60827",
     "tmdb:tv:60833",
+    "tmdb:tv:60843",
     "tmdb:tv:60863",
     "tmdb:tv:60896",
     "tmdb:tv:60998",
@@ -484,6 +488,7 @@
     "tmdb:tv:74191",
     "tmdb:tv:74267",
     "tmdb:tv:74577",
+    "tmdb:tv:74592",
     "tmdb:tv:74662",
     "tmdb:tv:75387",
     "tmdb:tv:75745",
@@ -876,7 +881,6 @@
     "tmdb:tv:218305",
     "tmdb:tv:218342",
     "tmdb:tv:218475",
-    "tmdb:tv:218507",
     "tmdb:tv:218783",
     "tmdb:tv:218996",
     "tmdb:tv:219063",
@@ -1110,7 +1114,6 @@
     "tmdb:tv:336771",
     "tmdb:tv:336804",
     "tmdb:tv:336998",
-    "tmdb:tv:337118",
     "tmdb:tv:337535",
     "tmdb:tv:338251",
     "tmdb:tv:339051",
@@ -1118,7 +1121,6 @@
     "tmdb:tv:340397",
     "tmdb:tv:340505",
     "tmdb:tv:340903",
-    "tmdb:tv:340928",
-    "tmdb:tv:342223"
+    "tmdb:tv:340928"
   ]
 }

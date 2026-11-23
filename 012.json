@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "catalogNumber": 12,
-  "version": "2026-11-16T12:45:39Z",
+  "version": "2026-11-23T14:39:26Z",
   "source": "tmdb-keywords:con artist,swindle,scam",
   "providerKeys": [
     "tmdb:movie:161",
@@ -321,6 +321,7 @@
     "tmdb:movie:1767808",
     "tmdb:movie:1781486",
     "tmdb:movie:1801464",
-    "tmdb:movie:1804083"
+    "tmdb:movie:1804083",
+    "tmdb:movie:1832806"
   ]
 }

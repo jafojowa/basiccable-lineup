@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "catalogNumber": 44,
-  "version": "2026-11-02T12:25:02Z",
+  "version": "2026-11-23T14:39:26Z",
   "source": "tmdb-keywords:american football",
   "providerKeys": [
     "tmdb:movie:4942",
@@ -326,7 +326,6 @@
     "tmdb:movie:1292683",
     "tmdb:movie:1309525",
     "tmdb:movie:1322597",
-    "tmdb:movie:1337305",
     "tmdb:movie:1339706",
     "tmdb:movie:1372443",
     "tmdb:movie:1377585",
@@ -334,6 +333,7 @@
     "tmdb:movie:1405620",
     "tmdb:movie:1405625",
     "tmdb:movie:1411266",
+    "tmdb:movie:1418719",
     "tmdb:movie:1425301",
     "tmdb:movie:1434073",
     "tmdb:movie:1443814",
@@ -341,6 +341,7 @@
     "tmdb:movie:1463111",
     "tmdb:movie:1484593",
     "tmdb:movie:1488782",
+    "tmdb:movie:1554463",
     "tmdb:movie:1559774",
     "tmdb:movie:1570769",
     "tmdb:movie:1599336",
@@ -363,6 +364,7 @@
     "tmdb:movie:1766132",
     "tmdb:movie:1766609",
     "tmdb:movie:1773960",
-    "tmdb:movie:1796399"
+    "tmdb:movie:1796399",
+    "tmdb:movie:1828939"
   ]
 }
